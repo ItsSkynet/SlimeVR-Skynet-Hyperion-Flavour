@@ -1,3 +1,15 @@
-A simple STURDY calibration jig for Hyperion cases and most of its remixes that has the same dimensions (length and width).
+# Sturdy Hyperion Calibration Jig
 
-Original calibration jig: https://github.com/Lupinixx/SlimeVR-Hyperion-BMI160-PCB/blob/main/Hyperion%20Lupinix-calibration_jig.stl
+![Screenshot of jig in cura]([https://myoctocat.com/assets/images/base-octocat.svg](https://raw.githubusercontent.com/ItsSkynet/SlimeVR-Sturdy-Hyperion-Calibration-Jig/main/images/UltiMaker-Cura_8iweLFE4Qx.png))
+
+### Printing settings
+- Sliced with Cura
+- Standard Quality 0.2mm
+- No Supports
+- No Rafts
+- Skirt Adhesion
+- Wall Count: 3
+
+- Printed with: Creality Ender 3 V3 SE with standard 0.4mm nozzle
+
+> Original calibration jig: [Click here](https://github.com/Lupinixx/SlimeVR-Hyperion-BMI160-PCB/blob/main/Hyperion%20Lupinix-calibration_jig.stl) 
