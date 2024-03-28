@@ -1,6 +1,6 @@
 # Sturdy Hyperion Calibration Jig
 
-![Screenshot of jig in cura](https://raw.githubusercontent.com/ItsSkynet/SlimeVR-Sturdy-Hyperion-Calibration-Jig/main/images/UltiMaker-Cura_8iweLFE4Qx.png).
+![Screenshot of jig in cura](https://raw.githubusercontent.com/ItsSkynet/SlimeVR-Sturdy-Hyperion-Calibration-Jig/main/images/UltiMaker-Cura_8iweLFE4Qx.png)
 
 ### Printing settings
 - Sliced with Cura
