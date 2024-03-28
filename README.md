@@ -9,6 +9,7 @@
 - No Rafts
 - Skirt Adhesion
 - Wall Count: 2
+- Filament used: eSun PLA+
 
 - Printed with: Creality Ender 3 V3 SE with standard 0.4mm nozzle
 
