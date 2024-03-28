@@ -8,7 +8,7 @@
 - No Supports
 - No Rafts
 - Skirt Adhesion
-- Wall Count: 3
+- Wall Count: 2
 
 - Printed with: Creality Ender 3 V3 SE with standard 0.4mm nozzle
 
