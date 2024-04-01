@@ -5,7 +5,7 @@
 ![Screenshot of jig in cura](https://raw.githubusercontent.com/ItsSkynet/SlimeVR-Sturdy-Hyperion-Calibration-Jig/main/images/UltiMaker-Cura_8iweLFE4Qx.png)
 
 ### FDM Print settings
-- Sliced with Cura
+- Slice with Cura or Creality_Print
 - Standard Quality 0.2mm
 - Supports: none
 - Build Plate Adhesion: none/skirt (skirt is ideal to remove more pre-cooked filament that could bubble up)
