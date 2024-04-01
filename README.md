@@ -1,4 +1,4 @@
-# SlimeVR-Skynet-Hyperion-Flavour
+# [SlimeVR] Skynet's Hyperion Remix
 
 ## Sturdy Hyperion Calibration Jig
 
