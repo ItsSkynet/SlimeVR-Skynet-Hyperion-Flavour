@@ -7,11 +7,10 @@
 ### FDM Print settings
 - Sliced with Cura
 - Standard Quality 0.2mm
-- No Supports
-- No Rafts
-- Skirt Adhesion
+- Supports: none
+- Build Plate Adhesion: none/skirt (skirt is ideal to remove more pre-cooked filament that could bubble up)
 - Wall Count: 2
-- Filament used: eSun PLA+
+- Filament: PLA/PETG
 
 - Printed with: Creality Ender 3 V3 SE with standard 0.4mm nozzle
 
