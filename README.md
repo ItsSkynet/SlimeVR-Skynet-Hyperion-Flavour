@@ -4,7 +4,7 @@
 
 ![Screenshot of jig in cura](https://raw.githubusercontent.com/ItsSkynet/SlimeVR-Sturdy-Hyperion-Calibration-Jig/main/images/UltiMaker-Cura_8iweLFE4Qx.png)
 
-### Printing settings
+### FDM Print settings
 - Sliced with Cura
 - Standard Quality 0.2mm
 - No Supports
