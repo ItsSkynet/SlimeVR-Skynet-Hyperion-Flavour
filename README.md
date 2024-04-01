@@ -1,4 +1,6 @@
-# Sturdy Hyperion Calibration Jig
+# SlimeVR-Skynet-Hyperion-Flavour
+
+##Sturdy Hyperion Calibration Jig
 
 ![Screenshot of jig in cura](https://raw.githubusercontent.com/ItsSkynet/SlimeVR-Sturdy-Hyperion-Calibration-Jig/main/images/UltiMaker-Cura_8iweLFE4Qx.png)
 
