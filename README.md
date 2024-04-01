@@ -12,6 +12,6 @@
 - Wall Count: 2
 - Filament: PLA/PETG
 
-- Printed with: Creality Ender 3 V3 SE with standard 0.4mm nozzle
+Tested and Printed with: Creality Ender 3 V3 SE / standard 0.4mm nozzle
 
 > Original calibration jig: [Click here](https://github.com/Lupinixx/SlimeVR-Hyperion-BMI160-PCB/blob/main/Hyperion%20Lupinix-calibration_jig.stl) 
